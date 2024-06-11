@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="text_hello">Diga Olá</string>
+    <string name="hint_edit_name">Digite seu nome</string>
+    <string name="text_hi">Olá</string>
+</resources>
