@@ -10,7 +10,6 @@
         android:id="@+id/edit_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="26dp"
         android:hint="@string/hint_edit_name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,10 +31,9 @@
         android:id="@+id/text_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:hint="@string/text_hi"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/button_name"
+        app:layout_constraintStart_toStartOf="@+id/button_name"
         app:layout_constraintTop_toBottomOf="@id/button_name" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
