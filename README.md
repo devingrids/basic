@@ -1,0 +1,1 @@
+-> firstapp - função: digitar um valor no edit text e quando clicar no botão de "dizer olá" ele mostra o texto inputado em um text view.
