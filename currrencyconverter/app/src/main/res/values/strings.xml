@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">currrencyconverter</string>
+    <string name="text_converter">Converter</string>
+    <string name="text_hint_value">Digite o valor</string>
+</resources>
